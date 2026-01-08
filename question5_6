@@ -1,0 +1,28 @@
+#### Question 5 (2 marks)
+Which of the following statements is correct?
+
+A) Overloaded methods have the same method signature, while overridden methods have a different method signature.\
+B) Overloaded methods can have different access modifiers, while overridden methods must have the same access modifier.\
+C) Overloaded methods are defined in different classes, while overridden methods are defined in the same class.\
+D) Overloaded methods are resolved at compile-time, while overridden methods are resolved at runtime.
+
+#### Question 6 (2 marks)
+Which of the following statements is untrue about method overriding?
+
+A) Constructors cannot be overridden\
+B) If a static method in the base class, is redefined in the sub-class, the later hides the method in the base class
+C) In method overriding, run-time polymorphism ensures that instantiated, the call to any method in the base class will be resolved to the correct method, based on the run-time type of the object instantiated.\
+D) During method overriding, the overridden method in the sub-class can specify a less permissive access modifier
+
+
+
+
+
+answers:
+
+
+
+
+
+
+D for both
